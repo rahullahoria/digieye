@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43b89ad6-1c47-400a-a5b1-61b282d4a5e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/digieye.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Environment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Exception/Pass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Exception/Stop.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Helper/Set.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Http/Cookies.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Http/Headers.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Http/Request.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Http/Response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Http/Util.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Log.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/LogWriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Middleware.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Middleware/ContentTypes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Middleware/Flash.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Middleware/MethodOverride.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Middleware/PrettyExceptions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Middleware/SessionCookie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Route.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Router.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/Slim.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/Slim/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/resources/objects/getObject.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/api/resources/objects/saveObject.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/resources/objects/saveObject.php" afterPath="$PROJECT_DIR$/api/resources/objects/saveObject.php" />
     </list>
     <ignored path="digieye.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getObject.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="getObject.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/resources/objects/getObject.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15358362">
+            <state vertical-scroll-proportion="-3.75">
               <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
               <folding>
                 <marker date="1467288912524" expanded="true" signature="148:189" placeholder="SELECT * FRO... objects" />
@@ -80,13 +47,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saveObject.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="saveObject.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/resources/objects/saveObject.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.25597268">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding>
-                <marker date="1467288874320" expanded="true" signature="241:487" placeholder="INSERT INTO `digieye`.`objects`... " />
+                <marker date="1467289419900" expanded="true" signature="241:483" placeholder="INSERT INTO `digieye`.`objects`... " />
               </folding>
             </state>
           </provider>
@@ -112,8 +79,8 @@
       <list>
         <option value="$PROJECT_DIR$/api/db.php" />
         <option value="$PROJECT_DIR$/api/app.php" />
-        <option value="$PROJECT_DIR$/api/resources/objects/saveObject.php" />
         <option value="$PROJECT_DIR$/api/resources/objects/getObject.php" />
+        <option value="$PROJECT_DIR$/api/resources/objects/saveObject.php" />
       </list>
     </option>
   </component>
@@ -252,6 +219,13 @@
       <option name="number" value="Default" />
       <updated>1467286631792</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1467288953030</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467288953030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -260,6 +234,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -280,6 +255,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -293,6 +272,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/api/resources/objects/getObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <marker date="1467288912524" expanded="true" signature="148:189" placeholder="SELECT * FRO... objects" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.0">
@@ -303,20 +292,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/resources/objects/saveObject.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.25597268">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
-            <marker date="1467288874320" expanded="true" signature="241:487" placeholder="INSERT INTO `digieye`.`objects`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/resources/objects/getObject.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15358362">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding>
-            <marker date="1467288912524" expanded="true" signature="148:189" placeholder="SELECT * FRO... objects" />
+            <marker date="1467289419900" expanded="true" signature="241:483" placeholder="INSERT INTO `digieye`.`objects`... " />
           </folding>
         </state>
       </provider>

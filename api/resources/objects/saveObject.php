@@ -13,15 +13,15 @@ function saveObject($app_id){
 
 
     $sql = "INSERT INTO `digieye`.`objects`
-                  ( `qr_bar_code`, `name`, `photo`, `brand`, `address`, `mobile`, `email`, `type`, `location`)
-              VALUES (:qr_bar_code, :name, :photo, :brand, :address, :mobile, :email, :type, :location);";
+                  ( `object_id`, `name`, `photo`, `brand`, `address`, `mobile`, `email`, `type`, `location`)
+              VALUES (:object_id, :name, :photo, :brand, :address, :mobile, :email, :type, :location);";
 
     try {
 
         $db = getDB();
         $stmt = $db->prepare($sql);
 
-        $stmt->bindParam("qr_bar_code", $object->qr_bar_code);
+        $stmt->bindParam("object_id", $object->object_id);
         $stmt->bindParam("name", $object->name);
         $stmt->bindParam("photo", $object->photo);
         $stmt->bindParam("brand", $object->brand);
