@@ -37,8 +37,14 @@ function saveObject($app_id){
 
         $object->id = $id;
 
+        if(!isset($object->object_id)) {
+            $object->object_id = $app_id . "-" . $id;
 
-        $db = null;
+            $sql = "Update `digieye`.`objects` set object_id = '".$object->object_id."' where id = " . $id;
+            $stmt = $db->prepare($sql);
+            $stmt->execute();
+        }
+            $db = null;
 
         echo '{"object": ' . json_encode($object) . '}';
 
