@@ -50,12 +50,12 @@
       <file leaf-file-name="saveObject.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/resources/objects/saveObject.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6911263">
-              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.665529">
+              <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
               <folding>
-                <marker date="1467355978047" expanded="true" signature="241:483" placeholder="INSERT INTO `digieye`.`objects`... " />
-                <marker date="1467355978047" expanded="true" signature="1252:1294" placeholder="Update `digi... " />
-                <marker date="1467355978047" expanded="true" signature="1252:1331" placeholder="Update users... " />
+                <marker date="1467356173011" expanded="true" signature="241:483" placeholder="INSERT INTO `digieye`.`objects`... " />
+                <marker date="1467356173011" expanded="true" signature="1280:1322" placeholder="Update `digi... " />
+                <marker date="1467356173011" expanded="true" signature="1280:1359" placeholder="Update users... " />
               </folding>
             </state>
           </provider>
@@ -244,7 +244,13 @@
       <option name="project" value="LOCAL" />
       <updated>1467355938518</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feture when create object with object id">
+      <created>1467355992069</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1467355992069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -308,9 +314,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1467355978047" expanded="true" signature="241:483" placeholder="INSERT INTO `digieye`.`objects`... " />
-            <marker date="1467355978047" expanded="true" signature="1252:1294" placeholder="Update `digi... " />
-            <marker date="1467355978047" expanded="true" signature="1252:1331" placeholder="Update users... " />
+            <marker date="1467356173011" expanded="true" signature="241:483" placeholder="INSERT INTO `digieye`.`objects`... " />
+            <marker date="1467356173011" expanded="true" signature="1280:1322" placeholder="Update `digi... " />
+            <marker date="1467356173011" expanded="true" signature="1280:1359" placeholder="Update users... " />
           </folding>
         </state>
       </provider>
@@ -351,12 +357,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/resources/objects/saveObject.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6911263">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.665529">
+          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
           <folding>
-            <marker date="1467355978047" expanded="true" signature="241:483" placeholder="INSERT INTO `digieye`.`objects`... " />
-            <marker date="1467355978047" expanded="true" signature="1252:1294" placeholder="Update `digi... " />
-            <marker date="1467355978047" expanded="true" signature="1252:1331" placeholder="Update users... " />
+            <marker date="1467356173011" expanded="true" signature="241:483" placeholder="INSERT INTO `digieye`.`objects`... " />
+            <marker date="1467356173011" expanded="true" signature="1280:1322" placeholder="Update `digi... " />
+            <marker date="1467356173011" expanded="true" signature="1280:1359" placeholder="Update users... " />
           </folding>
         </state>
       </provider>

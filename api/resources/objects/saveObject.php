@@ -37,7 +37,7 @@ function saveObject($app_id){
 
         $object->id = $id;
 
-        if(!isset($object->object_id)) {
+        if(!isset($object->object_id) || $object->object_id =="" ) {
             $object->object_id = "DigiEYE".$app_id . "-" . $id;
 
             $sql = "Update `digieye`.`objects` set object_id = '".$object->object_id."' where id = " . $id;
