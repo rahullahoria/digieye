@@ -13,8 +13,8 @@ function saveObject($app_id){
 
 
     $sql = "INSERT INTO `digieye`.`objects`
-                  ( `object_id`, `name`, `photo`, `brand`, `address`, `mobile`, `email`, `type`, `location`)
-              VALUES (:object_id, :name, :photo, :brand, :address, :mobile, :email, :type, :location);";
+                  ( `object_id`, `name`, `photo`, `brand`, `address`, `mobile`, `email`, `type`, `location`, `description`)
+              VALUES (:object_id, :name, :photo, :brand, :address, :mobile, :email, :type, :location, :description);";
 
     try {
 
@@ -30,6 +30,7 @@ function saveObject($app_id){
         $stmt->bindParam("email", $object->email);
         $stmt->bindParam("type", $object->type);
         $stmt->bindParam("location", $object->location);
+        $stmt->bindParam("description", $object->description);
 
         $stmt->execute();
 
