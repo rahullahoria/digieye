@@ -340,9 +340,11 @@ line-height: 1.7em;
 }
 .wmuSlider .wmuSliderWrapper article img {
 	max-width: 100%;
-	width: auto;
-	height: auto;
+	width: 70%;
+	height: 500px;
 	display:block;
+	margin-left: 7em;
+	vertical-align: middle;
 }
 /* Default Skin */
 .wmuSliderPagination {
@@ -381,6 +383,7 @@ a.wmuSliderNext,a.wmuSliderPrev {
 .item-in{
 	text-align:center;
 	padding:0em 0 6em;
+	vertical-align: middle;
 }
 .con-in{
 	padding:4em 0 1em;
