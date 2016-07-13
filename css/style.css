@@ -32,10 +32,10 @@ h1,h2,h3,h4,h5,h6,p,label{
 	margin:0;
 }
 .header{
-	background: url(../images/1.jpg) no-repeat;
+	
 	width:100%;
 	display:block;
-	height:690px;
+	height:600px;
 	  background-size: cover;
 }
 .header-top {
@@ -343,14 +343,14 @@ line-height: 1.7em;
 	width: 70%;
 	height: 500px;
 	display:block;
-	margin-left: 7em;
+	margin-left: 10em;
 	vertical-align: middle;
 }
 /* Default Skin */
 .wmuSliderPagination {
 	z-index: 2;
 	position: absolute;
-	right:44%;
+	right:34%;
 	bottom:35px;
 }
 ul.wmuSliderPagination {
