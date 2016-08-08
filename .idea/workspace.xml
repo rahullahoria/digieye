@@ -2,7 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43b89ad6-1c47-400a-a5b1-61b282d4a5e9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ajax/submit_message.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Oxygen-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/Scada-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/13457811_1031760726905753_1900286509_n.png.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Page-001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Page-002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Page-003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Page-004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Page-005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Page-006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Page-007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Page-008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/f.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/img-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ne.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ne1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ne2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/nge.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/qw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.wmuSlider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/fonts/Oxygen-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/fonts/Scada-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/fonts/glyphicons-halflings-regular.eot?" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/images/ab.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/images/img-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/images/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/images/ne.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/images/o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/p.w3layouts.com/demos/armor/web/js/jquery.wmuSlider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/services.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/digieye.iml" afterPath="$PROJECT_DIR$/.idea/digieye.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Environment.php" afterPath="$PROJECT_DIR$/api/Slim/Environment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Exception/Pass.php" afterPath="$PROJECT_DIR$/api/Slim/Exception/Pass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Exception/Stop.php" afterPath="$PROJECT_DIR$/api/Slim/Exception/Stop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Helper/Set.php" afterPath="$PROJECT_DIR$/api/Slim/Helper/Set.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Http/Cookies.php" afterPath="$PROJECT_DIR$/api/Slim/Http/Cookies.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Http/Headers.php" afterPath="$PROJECT_DIR$/api/Slim/Http/Headers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Http/Request.php" afterPath="$PROJECT_DIR$/api/Slim/Http/Request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Http/Response.php" afterPath="$PROJECT_DIR$/api/Slim/Http/Response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Http/Util.php" afterPath="$PROJECT_DIR$/api/Slim/Http/Util.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Log.php" afterPath="$PROJECT_DIR$/api/Slim/Log.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/LogWriter.php" afterPath="$PROJECT_DIR$/api/Slim/LogWriter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Middleware.php" afterPath="$PROJECT_DIR$/api/Slim/Middleware.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Middleware/ContentTypes.php" afterPath="$PROJECT_DIR$/api/Slim/Middleware/ContentTypes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Middleware/Flash.php" afterPath="$PROJECT_DIR$/api/Slim/Middleware/Flash.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Middleware/MethodOverride.php" afterPath="$PROJECT_DIR$/api/Slim/Middleware/MethodOverride.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Middleware/PrettyExceptions.php" afterPath="$PROJECT_DIR$/api/Slim/Middleware/PrettyExceptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Middleware/SessionCookie.php" afterPath="$PROJECT_DIR$/api/Slim/Middleware/SessionCookie.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Route.php" afterPath="$PROJECT_DIR$/api/Slim/Route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Router.php" afterPath="$PROJECT_DIR$/api/Slim/Router.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/Slim.php" afterPath="$PROJECT_DIR$/api/Slim/Slim.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/Slim/View.php" afterPath="$PROJECT_DIR$/api/Slim/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/app.php" afterPath="$PROJECT_DIR$/api/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/db.php" afterPath="$PROJECT_DIR$/api/db.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/header.php" afterPath="$PROJECT_DIR$/api/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/index.php" afterPath="$PROJECT_DIR$/api/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/resources/objects/getObject.php" afterPath="$PROJECT_DIR$/api/resources/objects/getObject.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/resources/objects/saveObject.php" afterPath="$PROJECT_DIR$/api/resources/objects/saveObject.php" />
     </list>
     <ignored path="digieye.iws" />
@@ -28,7 +118,7 @@
       <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-3.125">
               <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding />
             </state>
@@ -38,7 +128,7 @@
       <file leaf-file-name="getObject.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/resources/objects/getObject.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-3.75">
               <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
               <folding>
                 <marker date="1467288912524" expanded="true" signature="148:189" placeholder="SELECT * FRO... objects" />
@@ -47,11 +137,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saveObject.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.334471">
+              <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saveObject.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/resources/objects/saveObject.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48634812">
-              <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <marker date="1467716216576" expanded="true" signature="241:512" placeholder="INSERT INTO `digieye`.`objects`... " />
                 <marker date="1467716216576" expanded="true" signature="1373:1415" placeholder="Update `digi... " />
@@ -83,6 +183,8 @@
         <option value="$PROJECT_DIR$/api/app.php" />
         <option value="$PROJECT_DIR$/api/resources/objects/getObject.php" />
         <option value="$PROJECT_DIR$/api/resources/objects/saveObject.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/web/index.html" />
       </list>
     </option>
   </component>
@@ -123,6 +225,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -138,6 +241,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="digieye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -180,7 +287,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,14 +368,20 @@
       <option name="project" value="LOCAL" />
       <updated>1467356244192</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feture when create object with object id">
+      <created>1467716235026</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1467716235026</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="27" width="1370" height="743" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -314,6 +426,44 @@
     <entry file="file://$PROJECT_DIR$/api/resources/objects/getObject.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1467288912524" expanded="true" signature="148:189" placeholder="SELECT * FRO... objects" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/resources/objects/saveObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <marker date="1467716216576" expanded="true" signature="241:512" placeholder="INSERT INTO `digieye`.`objects`... " />
+            <marker date="1467716216576" expanded="true" signature="1373:1415" placeholder="Update `digi... " />
+            <marker date="1467716216576" expanded="true" signature="1373:1452" placeholder="Update users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/resources/objects/getObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
           <folding>
             <marker date="1467288912524" expanded="true" signature="148:189" placeholder="SELECT * FRO... objects" />
@@ -381,7 +531,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/db.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-3.125">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding />
         </state>
@@ -395,9 +545,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/resources/objects/getObject.php">
+    <entry file="file://$PROJECT_DIR$/api/resources/objects/saveObject.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <marker date="1467716216576" expanded="true" signature="241:512" placeholder="INSERT INTO `digieye`.`objects`... " />
+            <marker date="1467716216576" expanded="true" signature="1373:1415" placeholder="Update `digi... " />
+            <marker date="1467716216576" expanded="true" signature="1373:1452" placeholder="Update users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/resources/objects/getObject.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
           <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
           <folding>
             <marker date="1467288912524" expanded="true" signature="148:189" placeholder="SELECT * FRO... objects" />
@@ -405,15 +567,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/resources/objects/saveObject.php">
+    <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48634812">
-          <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
-          <folding>
-            <marker date="1467716216576" expanded="true" signature="241:512" placeholder="INSERT INTO `digieye`.`objects`... " />
-            <marker date="1467716216576" expanded="true" signature="1373:1415" placeholder="Update `digi... " />
-            <marker date="1467716216576" expanded="true" signature="1373:1452" placeholder="Update users... " />
-          </folding>
+        <state vertical-scroll-proportion="0.334471">
+          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
