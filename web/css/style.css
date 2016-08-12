@@ -4048,8 +4048,9 @@ figure.lightbox {
 }
 
 .app-brief .phone-image {
-    max-width: 600px;
+    max-width: 1200px;
     margin: auto;
+    height: 600px;
 }
 
 .subscription-form .subscriber-button {
