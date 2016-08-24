@@ -44,7 +44,7 @@
             <!--Site Logo-->
             <div class="logo" data-sticky-logo="" data-normal-logo="img/logo.jpg">
                 <a href="index.html">
-                    <img alt="DigiEYE" src="img/logo.jpg" data-logo-height="50">
+                    <img alt="DigiEYE" src="img/logo.jpg" style="max-height:50px;" data-logo-height="50">
                 </a>
             </div>
             <!--End Site Logo-->
@@ -341,8 +341,10 @@ DigiEYE checks various aspects of a potential worker before recruiting him, so t
                             </p>
                             <br />
                             <p class="lead" style="color: #999;">
-                                91-9560625626
-                                digieye@shatkonlabs.com
+                             91-9560625626
+                            </p>
+                            <p class="lead" style="color: #999;">
+                             digieye@shatkonlabs.com
                             </p>
                             <div class="horizontal-break"></div>
 
@@ -359,11 +361,11 @@ DigiEYE checks various aspects of a potential worker before recruiting him, so t
                                         </div>
                                         <div class="col-sm-4">
                                             <label>Your email address <span class="required">*</span></label>
-                                            <input type="email" value="" maxlength="100" class="form-control" name="email" id="email1">
+                                            <input type="email" value="" onkeyup="nospaces(this)" maxlength="100" class="form-control" name="email" id="email1">
                                         </div>
                                         <div class="col-sm-4">
-                                            <label>Website</label>
-                                            <input type="text" value="" maxlength="100" class="form-control" name="website" id="website">
+                                            <label>Your contact number<span class="required">*</span></label>
+                                            <input type="text" value="" onkeyup="nospaces(this)" maxlength="12" class="form-control" name="phone number" id="contact">
                                         </div>
                                     </div>
                                 </div>
@@ -378,7 +380,7 @@ DigiEYE checks various aspects of a potential worker before recruiting him, so t
                                 <div class="row">
                                     <div class="col-sm-12">
                                         <br />
-                                        <button name="submit" type="submit" id="sendmesage" class="btn v-btn no-three-d">Send Message</button>
+                                        <button name="submit" type="submit" onclick="sendmesage()" id="sendmesage" class="btn v-btn no-three-d">Send Message</button>
                                     </div>
                                 </div>
                             </form> 
@@ -475,5 +477,6 @@ An Identity card with a unique QR code will be provided to every worker after ba
     <script src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
     <script src="js/theme-core.js"></script>
+    <script type="text/javascript" src="js/validation.js"></script>
 </body>
 </html>

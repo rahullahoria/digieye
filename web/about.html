@@ -41,10 +41,10 @@
     <header class="semi-transparent-header" data-bg-color="rgba(9, 103, 139, 0.36)" data-font-color="#fff">
         <div class="container">
 
-            <!--Site Logo-->
-            <div class="logo" data-sticky-logo="" data-normal-logo="img/logo.jpg">
+           <!--Site Logo-->
+            <div class="logo" data-sticky-logo="img/logo.jpg" data-normal-logo="img/logo.jpg">
                 <a href="index.html">
-                    <img alt="DigiEYE" src="img/logo.jpg" data-logo-height="35">
+                    <img alt="DigiEye" src="img/logo.jpg" style="max-height:50px;" data-logo-height="35">
                 </a>
             </div>
             <!--End Site Logo-->
@@ -150,6 +150,7 @@
                 <div class="row center">
 
                     <div class="col-sm-12">
+                        <br/><br/>
                         <p class="v-smash-text-large-2x">
                             <span>About Us</span>
                         </p>
@@ -171,7 +172,7 @@ Our expertise is in giving you a safe and secure environment where all your work
                     <div class="v-spacer col-sm-12 v-height-standard"></div>
                 </div>
 
-                 <div class="row features">
+                 <div class="row features" style="margin-top:20px;">
 
                     <div class="col-md-4 col-sm-4">
                         <div class="feature-box left-icon v-animation pull-top" data-animation="fade-from-left" data-delay="300">
@@ -186,7 +187,7 @@ Our expertise is in giving you a safe and secure environment where all your work
 
                         <div class="v-spacer col-sm-12 v-height-standard"></div>
 
-                        <div class="feature-box left-icon v-animation" data-animation="fade-from-left" data-delay="600">
+                        <div class="feature-box left-icon v-animation " data-animation="fade-from-left" data-delay="600">
                             <div class="feature-box-icon small">
                                 <i class="fa fa-check"></i>
                             </div>
@@ -198,12 +199,12 @@ Our expertise is in giving you a safe and secure environment where all your work
 
                         <div class="v-spacer col-sm-12 v-height-standard"></div>
 
-                        <div class="feature-box left-icon v-animation" data-animation="fade-from-left" data-delay="900">
+                        <div class="feature-box left-icon v-animation " style="margin-top:30px;" data-animation="fade-from-left" data-delay="900">
                             <div class="feature-box-icon small">
                                 <i class="fa fa-check"></i>
                             </div>
                             <div class="feature-box-text">
-                                <h3>Identity and local plus hometown address verification</h3>
+                                <h3>Local plus hometown address verification</h3>
                                
                             </div>
                         </div>
@@ -322,6 +323,8 @@ Our expertise is in giving you a safe and secure environment where all your work
                             <br />
                             <p class="lead" style="color: #999;">
                              91-9560625626
+                            </p>
+                            <p class="lead" style="color: #999;">
                              digieye@shatkonlabs.com
                             </p>
                             <div class="horizontal-break"></div>
@@ -339,11 +342,11 @@ Our expertise is in giving you a safe and secure environment where all your work
                                         </div>
                                         <div class="col-sm-4">
                                             <label>Your email address <span class="required">*</span></label>
-                                            <input type="email" value="" maxlength="100" class="form-control" name="email" id="email1">
+                                            <input type="email" value="" onkeyup="nospaces(this)" maxlength="100" class="form-control" name="email" id="email1">
                                         </div>
                                         <div class="col-sm-4">
-                                            <label>Website</label>
-                                            <input type="text" value="" maxlength="100" class="form-control" name="website" id="website">
+                                            <label>Your contact number<span class="required">*</span></label>
+                                            <input type="text" value="" onkeyup="nospaces(this)" maxlength="12" class="form-control" name="phone number" id="contact">
                                         </div>
                                     </div>
                                 </div>
@@ -358,11 +361,10 @@ Our expertise is in giving you a safe and secure environment where all your work
                                 <div class="row">
                                     <div class="col-sm-12">
                                         <br />
-                                        <button name="submit" type="submit" id="sendmesage" class="btn v-btn no-three-d">Send Message</button>
+                                        <button name="submit" type="submit" onclick="sendmesage()" id="sendmesage" class="btn v-btn no-three-d">Send Message</button>
                                     </div>
                                 </div>
-                            </form> 
-
+                            </form>
                         </div>
                     </div>
 
@@ -524,5 +526,6 @@ An Identity card with a unique QR code will be provided to every worker after ba
     <script src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
     <script src="js/theme-core.js"></script>
+    <script type="text/javascript" src="js/validation.js"></script>
 </body>
 </html>

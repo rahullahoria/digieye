@@ -44,7 +44,7 @@
             <!--Site Logo-->
             <div class="logo" data-sticky-logo="img/logo.jpg" data-normal-logo="img/logo.jpg">
                 <a href="index.html">
-                    <img alt="Venue" src="img/logo.jpg" data-logo-height="35">
+                    <img alt="DigiEye" src="img/logo.jpg" style="max-height:60px;" data-logo-height="35">
                 </a>
             </div>
             <!--End Site Logo-->
@@ -677,11 +677,15 @@ An Identity card with a unique QR code will be provided to every worker after ba
                     <div class="row center">
                         <div class="col-sm-8 col-sm-offset-2">
                             <p class="v-smash-text-large-2x">
-                                <span>Call us today!</span>
+                                <span>Contact us today!</span>
                             </p>
                             <br />
                             <p class="lead" style="color: #999;">
-                              91-9560625626
+                              091-9560625626
+                            </p>
+                            
+                            <p class="lead" style="color: #999;">
+                              digieye@shatkonlabs.com
                             </p>
                             <div class="horizontal-break"></div>
 
@@ -698,11 +702,11 @@ An Identity card with a unique QR code will be provided to every worker after ba
                                         </div>
                                         <div class="col-sm-4">
                                             <label>Your email address <span class="required">*</span></label>
-                                            <input type="email" value="" maxlength="100" class="form-control" name="email" id="email1">
+                                            <input type="email" value="" onkeyup="nospaces(this)" maxlength="100" class="form-control" name="email" id="email1">
                                         </div>
                                         <div class="col-sm-4">
-                                            <label>Website</label>
-                                            <input type="text" value="" maxlength="100" class="form-control" name="website" id="website">
+                                            <label>Your contact number<span class="required">*</span></label>
+                                            <input type="text" value="" onkeyup="nospaces(this)" maxlength="12" class="form-control" name="phone number" id="contact">
                                         </div>
                                     </div>
                                 </div>
@@ -717,7 +721,7 @@ An Identity card with a unique QR code will be provided to every worker after ba
                                 <div class="row">
                                     <div class="col-sm-12">
                                         <br />
-                                        <button name="submit"  type="submit" id="sendmesage" class="btn v-btn no-three-d">Send Message</button>
+                                        <button name="submit" type="submit" onclick="sendmesage()" id="sendmesage" class="btn v-btn no-three-d">Send Message</button>
                                     </div>
                                 </div>
                             </form> 
@@ -884,5 +888,6 @@ An Identity card with a unique QR code will be provided to every worker after ba
     <script src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
     <script src="js/theme-core.js"></script>
+    <script type="text/javascript" src="js/validation.js"></script>
 </body>
 </html>
